@@ -1,0 +1,3 @@
+# Local backups and Finder files: never committed, never served
+*.bak-20261012-you
+.DS_Store
